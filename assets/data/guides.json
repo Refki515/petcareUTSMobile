@@ -1,0 +1,184 @@
+{
+  "petTypes": [
+    "Kucing",
+    "Anjing",
+    "Kelinci",
+    "Burung"
+  ],
+  "categories": [
+    "Semua",
+    "Nutrisi",
+    "Kebersihan",
+    "Aktivitas",
+    "Kesehatan Dasar"
+  ],
+  "featuredGuideId": "anjing-jalan",
+  "popularGuideIds": [
+    "kucing-bulu",
+    "kelinci-hay"
+  ],
+  "guides": [
+    {
+      "id": "kucing-bulu",
+      "petType": "Kucing",
+      "category": "Kebersihan",
+      "title": "Cara menyikat bulu kucing",
+      "summary": "Pelajari cara menyikat bulu kucing dengan lembut dan kapan perlu berhenti.",
+      "imagePath": "assets/images/cat.jpg",
+      "materials": [
+        "Sikat berbulu lembut",
+        "Alas atau handuk bersih",
+        "Camilan kesukaan kucing"
+      ],
+      "steps": [
+        "Pilih tempat tenang. Biarkan kucing mengenali sikat dan merasa nyaman di dekatmu.",
+        "Sikat perlahan mengikuti arah tumbuh bulu. Mulai dari punggung dan hindari menarik bagian yang kusut.",
+        "Lakukan sebentar, lalu beri jeda. Hentikan jika kucing terlihat gelisah atau tidak nyaman.",
+        "Bersihkan sikat setelah digunakan dan berikan apresiasi lewat usapan atau camilan."
+      ],
+      "note": "Sesuaikan rutinitas dengan jenis bulu dan kenyamanan kucing. Jika kulit tampak merah atau kucing terus menggaruk, konsultasikan dengan dokter hewan.",
+      "readingMinutes": 4
+    },
+    {
+      "id": "kucing-minum",
+      "petType": "Kucing",
+      "category": "Nutrisi",
+      "title": "Menyiapkan tempat minum kucing",
+      "summary": "Sediakan air segar di tempat yang bersih dan mudah dijangkau setiap hari.",
+      "imagePath": "assets/images/cat.jpg",
+      "readingMinutes": 3,
+      "materials": [
+        "Mangkuk minum bersih",
+        "Air minum segar",
+        "Alas antiselip"
+      ],
+      "steps": [
+        "Pilih area tenang yang mudah dijangkau kucing.",
+        "Letakkan mangkuk di atas permukaan stabil, terpisah dari kotak pasir.",
+        "Ganti air secara rutin dan cuci mangkuk setiap hari."
+      ],
+      "note": "Amati kebiasaan minum kucing. Bila berubah drastis atau ia tampak sakit, konsultasikan dengan dokter hewan."
+    },
+    {
+      "id": "kucing-bermain",
+      "petType": "Kucing",
+      "category": "Aktivitas",
+      "title": "Bermain bersama kucing",
+      "summary": "Buat sesi bermain singkat yang menyenangkan dengan mainan yang aman.",
+      "imagePath": "assets/images/cat.jpg",
+      "materials": [
+        "Mainan khusus kucing",
+        "Area bermain yang lapang"
+      ],
+      "steps": [
+        "Singkirkan barang kecil yang bisa tertelan dan benda yang mudah jatuh.",
+        "Gerakkan mainan perlahan dan biarkan kucing mengejarnya sesuai minatnya.",
+        "Beri jeda ketika kucing mulai lelah. Simpan mainan bertali setelah selesai."
+      ],
+      "note": "Awasi saat bermain dan sesuaikan aktivitas dengan usia serta kenyamanan kucing. Jika tampak sakit, konsultasikan dengan dokter hewan.",
+      "readingMinutes": 4
+    },
+    {
+      "id": "anjing-jalan",
+      "petType": "Anjing",
+      "category": "Aktivitas",
+      "title": "Rutinitas jalan bersama anjing",
+      "summary": "Siapkan perjalanan yang nyaman, dari perlengkapan hingga waktu beristirahat.",
+      "imagePath": "assets/images/dog.jpg",
+      "readingMinutes": 5,
+      "materials": [
+        "Tali dan harness yang sesuai",
+        "Air minum",
+        "Kantong kebersihan"
+      ],
+      "steps": [
+        "Periksa tali dan harness sebelum berangkat agar terpasang dengan nyaman.",
+        "Pilih rute tenang dan cuaca yang nyaman. Hindari permukaan jalan yang panas.",
+        "Ikuti ritme berjalan anjing. Berikan jeda dan air jika dibutuhkan.",
+        "Bersihkan kotoran selama berjalan dan periksa kondisi anjing setelah pulang."
+      ],
+      "note": "Sesuaikan durasi dengan usia dan kemampuan anjing. Hentikan aktivitas jika ia terlihat kelelahan. Konsultasikan dengan dokter hewan bila ada keluhan."
+    },
+    {
+      "id": "anjing-tidur",
+      "petType": "Anjing",
+      "category": "Kebersihan",
+      "title": "Menjaga kebersihan alas tidur anjing",
+      "summary": "Rawat alas tidur agar area istirahat tetap bersih, kering, dan nyaman.",
+      "imagePath": "assets/images/dog.jpg",
+      "readingMinutes": 3,
+      "materials": [
+        "Alas tidur yang bisa dicuci",
+        "Pembersih sesuai petunjuk label",
+        "Sikat pembersih bulu"
+      ],
+      "steps": [
+        "Angkat bulu dan kotoran yang menempel pada alas tidur.",
+        "Cuci mengikuti label perawatan dan bilas hingga bersih.",
+        "Keringkan sepenuhnya sebelum diletakkan kembali di tempat istirahat."
+      ],
+      "note": "Letakkan tempat tidur di area kering. Simpan bahan pembersih jauh dari jangkauan hewan. Jika muncul iritasi, konsultasikan dengan dokter hewan."
+    },
+    {
+      "id": "kelinci-area",
+      "petType": "Kelinci",
+      "category": "Kesehatan Dasar",
+      "title": "Menyiapkan area aman untuk kelinci",
+      "summary": "Siapkan tempat untuk bergerak, bersembunyi, dan beristirahat dengan aman.",
+      "imagePath": "assets/images/rabbit.jpg",
+      "materials": [
+        "Pembatas area yang aman",
+        "Alas tidak licin",
+        "Tempat bersembunyi"
+      ],
+      "steps": [
+        "Jauhkan kabel, tanaman, dan barang yang berbahaya bila digigit.",
+        "Gunakan alas tidak licin dan sediakan ruang bergerak serta tempat bersembunyi.",
+        "Awasi saat kelinci menjelajah. Periksa keamanan area secara rutin."
+      ],
+      "note": "Panduan ini membahas keamanan lingkungan sehari-hari. Jika kelinci tampak lesu atau tidak mau makan, segera konsultasikan dengan dokter hewan.",
+      "readingMinutes": 4
+    },
+    {
+      "id": "kelinci-hay",
+      "petType": "Kelinci",
+      "category": "Nutrisi",
+      "title": "Menyediakan hay dan air untuk kelinci",
+      "summary": "Pastikan hay bersih dan air segar selalu mudah dijangkau kelinci.",
+      "imagePath": "assets/images/rabbit.jpg",
+      "readingMinutes": 3,
+      "materials": [
+        "Hay yang sesuai untuk kelinci",
+        "Wadah hay bersih",
+        "Air minum segar"
+      ],
+      "steps": [
+        "Letakkan hay yang bersih dan kering di wadah yang mudah dijangkau.",
+        "Isi wadah minum dengan air segar dan pastikan kelinci dapat menggunakannya.",
+        "Periksa setiap hari. Buang hay yang basah atau kotor dan bersihkan wadah minum."
+      ],
+      "note": "Kebutuhan pakan berbeda menurut usia dan kondisi. Diskusikan pola makan dengan dokter hewan bila ragu, terutama bila kelinci tidak mau makan."
+    },
+    {
+      "id": "burung-kandang",
+      "petType": "Burung",
+      "category": "Kebersihan",
+      "title": "Membersihkan kandang burung",
+      "summary": "Jaga kebersihan alas kandang, tempat makan, dan tempat minum secara rutin.",
+      "imagePath": "assets/images/bird.jpg",
+      "readingMinutes": 5,
+      "materials": [
+        "Alas kandang baru",
+        "Sikat khusus kandang",
+        "Air bersih"
+      ],
+      "steps": [
+        "Pindahkan burung ke tempat aman selama kandang dibersihkan.",
+        "Ganti alas kandang dan buang sisa makanan yang sudah kotor.",
+        "Bersihkan wadah makan dan minum, lalu bilas hingga bersih.",
+        "Keringkan semua bagian sebelum menata kandang dan mengembalikan burung."
+      ],
+      "note": "Hindari asap dan bahan pembersih yang menyengat di dekat burung. Jika burung tampak sakit, konsultasikan dengan dokter hewan."
+    }
+  ]
+}
